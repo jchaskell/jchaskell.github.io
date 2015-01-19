@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Jen Haskell
 tagline:          
-url:              http://github.com/jchaskell
+url:              http://jchaskell.github.io
 paginate:         1
 baseurl:          /
 author:

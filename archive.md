@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog
+title: Posts
 ---
 
-## Posts
+
 
 {% for post in site.posts %}
-	<li><span></span></li>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	* {{ post.date | date_to_string }} &raquo; [ {{ post.title }}]({{ post.url }})
 {% endfor %}

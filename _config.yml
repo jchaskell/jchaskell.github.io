@@ -1,10 +1,9 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Jen Haskell
-tagline:          
+tagline:
 url:              http://jchaskell.github.io
 paginate:         1
 baseurl:          /

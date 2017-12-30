@@ -1,13 +1,11 @@
 ---
 title: "Hello World 2.0"
 author: "Jen Haskell"
-date: "5/6/2017"
+date: "6/5/2017"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 I had dreams of writing more on this website at multiple points in the past. Most recently, I planned to write more after graduating last fall, but I also was busy starting a new job at the same time which took priority. Now that I have settled in to that job more, I hope to post more often. The posts will take one of two forms: 
 
